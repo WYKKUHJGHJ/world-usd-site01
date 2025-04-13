@@ -1,1 +1,15 @@
-/* home css module */
+/* 首页标题霓虹灯效果 */
+.neonTitle {
+  color: #0ff;
+  text-shadow: 0 0 5px #0ff, 0 0 10px #0ff;
+  animation: pulseNeon 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes pulseNeon {
+  from {
+    text-shadow: 0 0 5px #0ff;
+  }
+  to {
+    text-shadow: 0 0 20px #0ff;
+  }
+}
