@@ -1,1 +1,13 @@
-{}
+{
+  "pageTitle": "合约数据",
+  "overviewHeading": "合约概览",
+  "nameLabel": "名称",
+  "symbolLabel": "符号",
+  "supplyLabel": "总供应量",
+  "transfersHeading": "最近交易",
+  "txHash": "交易哈希",
+  "txFrom": "来自",
+  "txTo": "发送至",
+  "txValue": "数额",
+  "transfersEmpty": "暂无交易"
+}
