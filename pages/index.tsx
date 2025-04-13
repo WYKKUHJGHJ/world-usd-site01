@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -19,9 +20,16 @@ export default function Home() {
           <p className="text-lg mb-4">
             WUSD 的发行总量为 <strong>18 亿枚</strong>，且永不增发。目前运行在以太坊主网，未来将迁移至自主研发的公链 <strong>WERCRY</strong> 上。
           </p>
-          <p className="text-lg">
-            本站为 World USD 官方信息门户，你可以在上方导航中访问代币经济、技术架构、路线图和合约详情页面。
+          <p className="text-lg mb-8">
+            本网址为 World USD 官方信息门户，你可以在上方导航中访问代币经济、技术架构、路线图和合约详情页面。
           </p>
+
+          {/* 添加跳转按钮 */}
+          <Link href="/market">
+            <button className="mt-4 px-6 py-3 bg-blue-600 hover:bg-blue-700 transition rounded text-white font-semibold">
+              查看市场行情图表
+            </button>
+          </Link>
         </section>
       </main>
     </>
