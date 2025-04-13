@@ -1,1 +1,33 @@
-{}
+{
+  "metaTitle": "World USD - Decentralized Bitcoin-class Digital Asset",
+  "metaDescription": "World USD (WUSD) is a decentralized, non-pegged digital asset with a fixed supply, serving as the native token of the WERCRY blockchain. Inspired by Bitcoin, it is scarce, censorship-resistant, and governed by smart contracts.",
+  "heroTitle": "World USD (WUSD) Whitepaper",
+  "heroSubtitle": "Native Asset of the WERCRY Blockchain",
+  "summaryHeading": "Executive Summary",
+  "summaryText": [
+    "World USD (WUSD) is a decentralized, non-pegged, fixed-supply digital asset that serves as the native token of WERCRY, an upcoming EVM-compatible privacy-enhanced public blockchain. Inspired by the economic model of Bitcoin (BTC), WUSD is not a stablecoin, nor is it backed by fiat reserves. It is a Bitcoin-class asset - scarce, censorship-resistant, and entirely governed by smart contracts.",
+    "WUSD is designed to operate across multiple ecosystems and blockchains, while WERCRY will serve as its native Layer 1 network. The project aims to offer a new paradigm of digital value: a decentralized asset with both long-term value storage potential and strong utility within a scalable, privacy-aware blockchain ecosystem."
+  ],
+  "visionHeading": "Founder's Vision",
+  "visionQuote": "\"WUSD is not an experiment - it's a long-term statement. Like Bitcoin, it stands for freedom from inflation, from central control, and from fiat dependency. With WERCRY, we're building a sovereign ecosystem where WUSD becomes the programmable heart of a private, permissionless financial future.\"",
+  "visionAuthor": "- Wang Yike, Founder of WUSD & WERCRY",
+  "whatIsHeading": "What is WUSD?",
+  "whatIsText": "WUSD is a decentralized digital currency designed to:",
+  "whatIsList": [
+    "Act as a store of value",
+    "Enable free, global transactions",
+    "Power decentralized applications (dApps) and services within the WERCRY chain",
+    "Serve as a governance and staking asset for future on-chain activities"
+  ],
+  "finalNotesHeading": "Final Notes",
+  "finalNotesText": "World USD represents more than a token - it's the foundation of a future-proof decentralized economy. As WERCRY evolves, WUSD will be the currency of its engine: powering transactions, staking, governance, and privacy in a trustless, borderless digital world. Join us on this journey to build a new monetary frontier.",
+  "contactHeading": "Community & Contact",
+  "contactList": [
+    { "type": "Founder", "text": "Wang Yike" },
+    { "type": "Telegram", "text": "https://t.me/KiACGNYK" },
+    { "type": "Email", "text": "sumeimeitiansidunfan@outlook.com" },
+    { "type": "Website", "text": "Coming Soon" },
+    { "type": "GitHub", "text": "Coming Soon" },
+    { "type": "Explorer", "text": "https://etherscan.io/token/0xAA9564B56D2FBD9B5BC123A857617DAF6D8A4545" }
+  ]
+}
