@@ -1,1 +1,20 @@
-{}
+{
+  "pageTitle": "Technology",
+  "introductionHeading": "Introducing WERCRY",
+  "introductionText": "WERCRY is a new-generation Layer 1 blockchain currently under development. It is designed to serve as the native platform for WUSD, offering a fully decentralized, privacy-enabled smart contract ecosystem.",
+  "featuresHeading": "Key Features",
+  "featuresList": [
+    "EVM Compatibility",
+    "Integrated zk-SNARK Privacy",
+    "Cross-Chain Interoperability",
+    "Staking & Governance",
+    "Low Fees, High Throughput"
+  ],
+  "securityHeading": "Security and Auditing",
+  "securityList": [
+    "Public smart contract verification",
+    "Third-party audits before WERCRY launch",
+    "Transparent token monitoring",
+    "Bug bounties and open security programs"
+  ]
+}
