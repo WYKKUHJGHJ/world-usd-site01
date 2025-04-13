@@ -1,1 +1,33 @@
-{}
+{
+  "metaTitle": "World USD - 去中心化比特币级数字资产",
+  "metaDescription": "World USD（WUSD）是一种去中心化、非锚定、固定供应的数字资产，是 WERCRY 公链的原生代币。其经济模型受比特币启发，但并非稳定币，也没有法币储备支撑。",
+  "heroTitle": "World USD (WUSD) 白皮书",
+  "heroSubtitle": "WERCRY 区块链原生资产",
+  "summaryHeading": "项目概述",
+  "summaryText": [
+    "World USD（WUSD）是一种去中心化的、非锚定的、固定供应的数字资产，作为 WERCRY 即将推出的兼容 EVM、增强隐私的公链的原生代币。WUSD 的经济模型受到比特币（BTC）的启发，但它既不是稳定币，也没有法币储备支撑。它是一种比特币级别的资产——稀缺、抗审查，并完全由智能合约治理。",
+    "WUSD 被设计为可以跨多个生态系统和区块链运行，而 WERCRY 将作为其原生 Layer1 公链。该项目旨在提供一种数字价值的新范式：一种在可扩展且注重隐私的区块链生态系统中，既具有长期价值储存潜力又具备强大实用性的去中心化资产。"
+  ],
+  "visionHeading": "创始人愿景",
+  "visionQuote": "“WUSD 不是一个实验 —— 而是一项长期宣言。与比特币一样，它代表着摆脱通胀、摆脱中心化控制、摆脱法币依赖的自由。通过 WERCRY，我们正在构建一个主权生态系统，在其中 WUSD 将成为一个私密、无许可的金融未来中可编程的核心。”",
+  "visionAuthor": "—— 王一可，WUSD & WERCRY 创始人",
+  "whatIsHeading": "什么是 WUSD？",
+  "whatIsText": "WUSD 是一种去中心化数字货币，旨在：",
+  "whatIsList": [
+    "作为价值储存手段",
+    "实现自由、全球范围的交易",
+    "为 WERCRY 链上的去中心化应用（dApp）和服务提供动力",
+    "作为未来链上活动的治理和质押资产"
+  ],
+  "finalNotesHeading": "结语",
+  "finalNotesText": "World USD 不仅仅是一枚代币 —— 它是面向未来的去中心化经济的基础。随着 WERCRY 的发展，WUSD 将成为其引擎中的货币：在一个无需信任、无国界的数字世界中为交易、质押、治理和隐私提供动力。加入我们，共同构建新的金融前沿。",
+  "contactHeading": "社区与联系方式",
+  "contactList": [
+    { "type": "创始人", "text": "王一可" },
+    { "type": "Telegram", "text": "https://t.me/KiACGNYK" },
+    { "type": "电子邮箱", "text": "sumeimeitiansidunfan@outlook.com" },
+    { "type": "官方网站", "text": "敬请期待" },
+    { "type": "GitHub", "text": "敬请期待" },
+    { "type": "区块浏览器", "text": "https://etherscan.io/token/0xAA9564B56D2FBD9B5BC123A857617DAF6D8A4545" }
+  ]
+}
