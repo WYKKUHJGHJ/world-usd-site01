@@ -1,6 +1,3 @@
-export default function Contract() {
-  return <div>合约信息页面 Coming Soon...</div>;
-}
 import Head from "next/head";
 import { GetServerSideProps } from "next";
 import { motion } from "framer-motion";
@@ -19,6 +16,16 @@ interface ContractProps {
     to: string;
     value: string;
   }>;
+}
+export default function Contract() {
+  return (
+    <>
+      <Head>
+        <title>合约信息页面</title>
+      </Head>
+      <div>合约信息页面 Coming Soon...</div>
+    </>
+  );
 }
 
 // SSR：服务器端获取链上数据
