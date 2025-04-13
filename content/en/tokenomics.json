@@ -1,1 +1,44 @@
-{}
+{
+  "pageTitle": "Tokenomics",
+  "characteristicsHeading": "Key Characteristics",
+  "characteristicsList": [
+    "Token Name: World USD",
+    "Symbol: WUSD",
+    "Total Supply: 1,800,000,000 (Fixed Forever)",
+    "Supply Model: Deflationary - no inflation or minting after genesis",
+    "Smart Contract: 0xAA9564B56D2FBD9B5BC123A857617DAF6D8A4545",
+    "Type: Bitcoin-Class Digital Asset",
+    "Current Chain: Ethereum (ERC-20), will become native to WERCRY"
+  ],
+  "stablecoinHeading": "WUSD vs. Stablecoins",
+  "stablecoinText": "WUSD stands apart from fiat-backed assets. It is not an IOU, not subject to centralized freezing, and its value is governed solely by market supply and demand - just like BTC.",
+  "comparisonList": [
+    "Pegged to Fiat: No",
+    "Total Supply: Fixed",
+    "Central Issuer: No",
+    "Value Determination: Market-driven",
+    "Collateralized: No",
+    "Censorship Resistance: High"
+  ],
+  "utilityHeading": "Utility of WUSD",
+  "utilityText": "WUSD will have multiple use cases:",
+  "utilityList": [
+    "Transaction Fees",
+    "Staking",
+    "DeFi Collateral",
+    "Cross-Chain Transfers",
+    "Privacy Payments",
+    "Governance (future)"
+  ],
+  "distributionHeading": "Token Distribution Plan",
+  "distributionText": "All WUSD tokens are pre-minted and transparently allocated. No future minting is possible.",
+  "allocationList": [
+    "35% Liquidity Reserve",
+    "25% Ecosystem Fund",
+    "15% Team & Advisors",
+    "15% Community & Marketing",
+    "10% Validator/Staking Reserve"
+  ],
+  "disclaimerHeading": "Legal & Risk Disclaimer",
+  "disclaimerText": "WUSD is a decentralized asset. It is not issued by any financial institution and does not represent any claim or obligation. The team does not guarantee price stability or returns. Users should conduct independent due diligence before acquiring WUSD. Regulatory environments vary, and WUSD may not be legal in all jurisdictions."
+}
