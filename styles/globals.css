@@ -1,1 +1,8 @@
-/* globals css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 全局背景和字体颜色设定（暗色主题） */
+body {
+  @apply bg-black text-gray-200;
+}
