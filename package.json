@@ -1,5 +1,5 @@
 {
-  "name": "world-usd-site",
+  "name": "world-usd-site01",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,5 +11,10 @@
     "next": "^13.4.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.4.8"
   }
 }
