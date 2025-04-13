@@ -1,1 +1,13 @@
-{}
+{
+  "pageTitle": "Contract Data",
+  "overviewHeading": "Contract Overview",
+  "nameLabel": "Name",
+  "symbolLabel": "Symbol",
+  "supplyLabel": "Total Supply",
+  "transfersHeading": "Recent Transfers",
+  "txHash": "Transaction Hash",
+  "txFrom": "From",
+  "txTo": "To",
+  "txValue": "Value",
+  "transfersEmpty": "No transactions yet."
+}
