@@ -1,1 +1,38 @@
-{}
+{
+  "pageTitle": "Roadmap",
+  "timeline": [
+    {
+      "quarter": "Q1 2025",
+      "events": [
+        "WUSD deployed on Ethereum",
+        "DEX liquidity pools",
+        "Branding & whitepaper release",
+        "WERCRY testnet begins"
+      ]
+    },
+    {
+      "quarter": "Q2 2025",
+      "events": [
+        "WERCRY public testnet",
+        "Validator onboarding",
+        "Bridge development"
+      ]
+    },
+    {
+      "quarter": "Q3 2025",
+      "events": [
+        "Mainnet launch",
+        "WUSD migration",
+        "Privacy feature activation"
+      ]
+    },
+    {
+      "quarter": "Q4 2025",
+      "events": [
+        "Staking & Governance",
+        "WERCRY SDK launch",
+        "Strategic partnerships"
+      ]
+    }
+  ]
+}
