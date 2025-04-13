@@ -1,1 +1,20 @@
-{}
+{
+  "pageTitle": "技术架构",
+  "introductionHeading": "WERCRY 简介",
+  "introductionText": "WERCRY 是一款新一代 Layer1 区块链，目前正在开发中。它旨在作为 WUSD 的原生平台，提供一个完全去中心化、支持隐私的智能合约生态系统。",
+  "featuresHeading": "关键功能",
+  "featuresList": [
+    "EVM 兼容",
+    "集成 zk-SNARK 隐私技术",
+    "跨链互操作性",
+    "质押和治理",
+    "低费用、高吞吐量"
+  ],
+  "securityHeading": "安全和审计",
+  "securityList": [
+    "智能合约公开验证",
+    "WERCRY 上线前的第三方审计",
+    "透明的代币监控",
+    "漏洞赏金和开放安全计划"
+  ]
+}
