@@ -1,1 +1,44 @@
-{}
+{
+  "pageTitle": "代币经济",
+  "characteristicsHeading": "关键特性",
+  "characteristicsList": [
+    "代币名称：World USD",
+    "代币符号：WUSD",
+    "总供应量：1,800,000,000（永久固定）",
+    "供应模型：通缩型 - 创世发行后无通胀增发",
+    "智能合约地址：0xAA9564B56D2FBD9B5BC123A857617DAF6D8A4545",
+    "资产类型：比特币级数字资产",
+    "当前区块链：以太坊（ERC-20），将迁移至 WERCRY 主网"
+  ],
+  "stablecoinHeading": "WUSD 与稳定币",
+  "stablecoinText": "WUSD 与法币支撑的资产截然不同。它不是 IOU（借据），不受中心化机构冻结，其价值完全由市场供需决定 —— 就像 BTC 一样。",
+  "comparisonList": [
+    "锚定法币：否",
+    "总供应：固定",
+    "中心发行方：无",
+    "价值决定：市场驱动",
+    "抵押支持：无",
+    "抗审查性：高"
+  ],
+  "utilityHeading": "WUSD 的用途",
+  "utilityText": "WUSD 将具备多种应用场景：",
+  "utilityList": [
+    "支付交易手续费",
+    "质押",
+    "DeFi 抵押品",
+    "跨链转账",
+    "匿名支付",
+    "治理（未来）"
+  ],
+  "distributionHeading": "代币分配方案",
+  "distributionText": "所有 WUSD 代币均已预先铸造并透明分配。未来不会有新增铸造。",
+  "allocationList": [
+    "35% 流动性储备",
+    "25% 生态基金",
+    "15% 团队和顾问",
+    "15% 社区和营销",
+    "10% 验证者/质押储备"
+  ],
+  "disclaimerHeading": "法律及风险声明",
+  "disclaimerText": "WUSD 是一种去中心化资产。它不是由任何金融机构发行，也不代表任何权利要求或义务。团队不保证其价格稳定或收益。用户在获取 WUSD 之前应进行独立的尽职调查。由于监管环境各异，WUSD 在所有司法管辖区可能并不合法。"
+}
